@@ -123,9 +123,7 @@ Auto-updates are built in and check on startup (configurable in Settings).
 
 ## License
 
-Proprietary. Brutal Zip is freeware — free to use, no nag screens, no feature locks.
-
-If you paid for it, you should get a refund.
+Proprietary.
 
 ---
 
